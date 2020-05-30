@@ -52,7 +52,7 @@ namespace StowayNet
             return services;
         }
 
-        internal static IServiceCollection RegisterTypes(this IServiceCollection services, Type[] types, ServiceLifetime serviceLifetime, bool asImplementedInterfaces = true, bool asSelf = false)
+        public static IServiceCollection RegisterTypes(this IServiceCollection services, Type[] types, ServiceLifetime serviceLifetime, bool asImplementedInterfaces = true, bool asSelf = false)
         {
             var typeDic = new Dictionary<Type, Type[]>();
             var ignoreTypes = new Type[] { typeof(IStowayDependency), typeof(IDisposable) };
