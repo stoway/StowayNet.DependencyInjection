@@ -26,7 +26,7 @@ public void ConfigureServices(IServiceCollection services)
 {
     ......
 
-    services.AddStowayDependency();
+    services.AddStowayNet();
 
     ......
 }
