@@ -69,9 +69,9 @@ public class AuthorService {
 
 ```
 
-#### Sample 3：implement `IStowayServiceRegister` interface's `Register` method.
+#### Sample 3：implement `Register` method of `IStowayServiceRegister` interface.
 
-By implementing the `Register` method of the` IStowayServiceRegister` interface, you can implement a custom injection service.
+By implementing `Register` method of ` IStowayServiceRegister` interface, you can implement a custom injection service.
 
 ```c#
 
