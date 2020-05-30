@@ -8,7 +8,7 @@
 ## 入门
 ### NuGet 
 
-你可以运行以下下命令在你的项目中安装 StowayNet.DependencyInjection。
+你可以运行以下命令在你的项目中安装 StowayNet.DependencyInjection。
 
 ```
 PM> Install-Package StowayNet.DependencyInjection
