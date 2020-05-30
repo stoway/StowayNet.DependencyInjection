@@ -5,7 +5,7 @@
     <RootNamespace>StowayNet</RootNamespace>
     <Version>1.0.1</Version>
     <Authors>stoway</Authors>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Company>stoway.net</Company>
     <PackageProjectUrl>https://github.com/stoway/StowayNet.DependencyInjection</PackageProjectUrl>
