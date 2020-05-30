@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>StowayNet</RootNamespace>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>stoway</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -14,8 +14,8 @@
     <Copyright>stoway</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>StowayNet.DependencyInjection is Dependency Injection extension methods for Microsoft.Net, it can easily implement dependency injection.</Description>
-    <PackageReleaseNotes>1.0.0.0</PackageReleaseNotes>
-    <PackageTags>di, ioc, dependencyinjection,</PackageTags>
+    <PackageReleaseNotes>Release notes are at https://github.com/stoway/StowayNet.DependencyInjection/releases</PackageReleaseNotes>
+    <PackageTags>di, ioc, dependencyinjection</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
