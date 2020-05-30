@@ -3,7 +3,7 @@
 </p>
 
 # StowayNet.DependencyInjection 　　　　　　　　　　　[En](https://github.com/stoway/StowayNet.DependencyInjection/blob/master/README.en-us.md)
- StowayNet.DependencyInjection 是基于 .net core 框架中的依赖注入实现的扩展方法，它可以帮助您在项目中更简捷的实现依赖注入。
+ StowayNet.DependencyInjection 是基于 .net core 框架中的依赖注入实现的扩展方法，它可以在项目中更简捷的实现依赖注入。
 
 ## 入门
 ### NuGet 
